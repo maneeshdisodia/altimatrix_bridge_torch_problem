@@ -30,24 +30,7 @@ The total time elapsed is 15 minutes, and the order of crossings is:
 5. A and B
 
 ## How to Run
-1. Make sure you have Python installed.
-2. Clone this repository.
-3. Customize the `person_times` dictionary in `run_bridge_crossing.py` with your own data.
-4. Execute the script: `python run_bridge_crossing.py`.
-
-## Contributing
-Feel free to contribute by improving the solution, adding more test cases, or suggesting optimizations.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Remember, a good README is concise but detailed. Break up long blocks of text into smaller paragraphs, use headings, and consider using bullet points. If you need to include code snippets, use code blocks to make the code stand out.
-
-Happy coding! 🌉🚀😊
-
----
+./bridge_crossing.sh
 
 *References*:
 1. [How to Write a Good README File for Your GitHub Project](https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/)
