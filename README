@@ -32,19 +32,3 @@ The total time elapsed is 15 minutes, and the order of crossings is:
 ## How to Run
 ./bridge_crossing.sh
 
-*References*:
-1. [How to Write a Good README File for Your GitHub Project](https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/)
-2. [Documentation 101: creating a good README for your software project](https://eheidi.dev/tech-writing/20221212_documentation-101/)
-3. [Creating a Good README File: A Guide](https://expertbeacon.com/how-to-write-a-good-readme-file-for-your-github-project/)
-4. [Video: One Effective tool to create Readme Files Quickly & Easily](https://www.youtube.com/watch?v=Rtpu2cWz7W8)
-5. [Video: The Easiest way to create a README For Github](https://www.youtube.com/watch?v=QcZKsbgsLa4)
-6. [Video: How to make a README.md file? Easiest way!](https://www.youtube.com/watch?v=mb9FJzkwmwg)
-
-Source: Conversation with Copilot, 5/9/2024
-(1) One Effective tool to create Readme Files Quickly & Easily. https://www.youtube.com/watch?v=Rtpu2cWz7W8.
-(2) The Easiest way to create a README For Github. https://www.youtube.com/watch?v=QcZKsbgsLa4.
-(3) How to make a README.md file? Easiest way!. https://www.youtube.com/watch?v=mb9FJzkwmwg.
-(4) How to Write a Good README File for Your GitHub Project. https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/.
-(5) Documentation 101: creating a good README for your software project. https://eheidi.dev/tech-writing/20221212_documentation-101/.
-(6) Creating a Good README File: A Guide | by Samuel Catalano - Medium. https://medium.com/@samuelcatalano/creating-a-good-readme-file-a-guide-9412ea8443c5.
-(7) How to Write a Good README File for Your GitHub Project. https://expertbeacon.com/how-to-write-a-good-readme-file-for-your-github-project/.
